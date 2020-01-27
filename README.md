@@ -8,7 +8,8 @@ Address: SURF/Netherlands eScience Center, Science Park 140, Amsterdam
 
 ## Scope of this workshop:
 During this workshop we worked with 6 selected teams from different domains on questions and data that each team brought to us.
-The key focus was to explore if (and how) machine-learning could help to address the research questions.
+The key focus was to explore if (and how) machine-learning could help to address the research questions.  
+You can also find more information in this eScience Center news item: https://www.esciencecenter.nl/news/escience-center-holds-inspiring-workshop-on-machine-learning-for-research.
 
 ## Presentations:
 Most of the workshop week was reserved for actual hands-on work. But this was complemented by a number of presentations on different aspects of machine-learning. 
