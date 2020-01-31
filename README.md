@@ -17,6 +17,7 @@ You can find the slides of the two introduction lectures by Maxwell Cai (SURF) a
 The Tuesday presentation by Vincent Warmerdam was not recorded, but he also gave this lecture at pyData which can be found here: https://www.youtube.com/watch?v=Z8MEFI7ZJlA&t=932s.
 
 You can find the **workshop program** here: https://github.com/NLeSC/machine_learning_workshop/blob/master/ML_for_research_workshop_2020_program.pdf
+![ML for Research Program 2020](https://github.com/NLeSC/machine_learning_workshop/blob/master/ML_for_research_workshop_2020_program.png)
 
 # Original workshop application text:
 ## Aim and eligibility
